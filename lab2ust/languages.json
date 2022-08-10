@@ -1,7 +1,7 @@
 [
 	{
 		"_comment": "Vowel list + Vocalic consonants from https://en.wikipedia.org/wiki/ARPABET",
-		"name": "Arpabet",
+		"name": "ARPABET",
 		"vowels": ["aa", "ae", "ah", "ao", "aw", "ax", "axr", "ay", "eh", "er", "ey", "ih", "ix", "iy", "ow", "oy", "uh", "uw", "ux", "el", "em", "en"]
 	},
 	{
